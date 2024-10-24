@@ -1,2 +1,3 @@
 # Demo
-This is first demo Repo.
+# This is first demo Repo.
+- Author Krishna
